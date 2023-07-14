@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7fc13492.css",
-    "main.js": "/portfolio/static/js/main.bce44a99.js",
+    "main.css": "/portfolio/static/css/main.fa274a17.css",
+    "main.js": "/portfolio/static/js/main.0d29a4a0.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/sisyphus.png": "/portfolio/static/media/sisyphus.02129969a50265c1f937.png",
     "static/media/hyprland.jpg": "/portfolio/static/media/hyprland.5837a97979bfd98485a6.jpg",
     "static/media/whatsappchatanalyser.jpg": "/portfolio/static/media/whatsappchatanalyser.5837a97979bfd98485a6.jpg",
     "static/media/mailsender.jpg": "/portfolio/static/media/mailsender.84671dfd109d4de76bae.jpg",
     "static/media/software.jpg": "/portfolio/static/media/software.84671dfd109d4de76bae.jpg",
     "static/media/autoarch.jpg": "/portfolio/static/media/autoarch.c1dd98a7d4ec1d150dae.jpg",
     "static/media/hugo.jpg": "/portfolio/static/media/hugo.16b2cb6d162eaa8d6fb5.jpg",
-    "static/media/sisyphus.jpg": "/portfolio/static/media/sisyphus.16b2cb6d162eaa8d6fb5.jpg",
-    "static/media/heroImage.png": "/portfolio/static/media/heroImage.dbba8da7d495b95fa046.png",
+    "static/media/autoarch.png": "/portfolio/static/media/autoarch.485ab751a33d7560df74.png",
+    "static/media/heroImage.png": "/portfolio/static/media/heroImage.68a80e8e429d9048fc19.png",
     "index.html": "/portfolio/index.html",
-    "main.7fc13492.css.map": "/portfolio/static/css/main.7fc13492.css.map",
-    "main.bce44a99.js.map": "/portfolio/static/js/main.bce44a99.js.map",
+    "main.fa274a17.css.map": "/portfolio/static/css/main.fa274a17.css.map",
+    "main.0d29a4a0.js.map": "/portfolio/static/js/main.0d29a4a0.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fc13492.css",
-    "static/js/main.bce44a99.js"
+    "static/css/main.fa274a17.css",
+    "static/js/main.0d29a4a0.js"
   ]
 }
